@@ -8,6 +8,8 @@
 
 ![image](https://user-images.githubusercontent.com/109058047/178197594-16116390-247c-4483-a4f3-b7837e52f521.png)
 
+##### This is my term project for UBC's CPSC 210 Software Construction course, using JSON with the Java language.
+
 This application consists of items to do. The to-do list has the following features:
 - Input a name, deadline, and condition for each of your tasks
 - See the number of tasks you have
