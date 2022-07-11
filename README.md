@@ -2,6 +2,8 @@
 
 ## Stay on top of your commitments.
 
+![image](https://user-images.githubusercontent.com/109058047/178197250-6cf56872-4dec-4a25-9535-0558fd1057d1.png)
+
 This application consists of items to do. The to-do list has the following features:
 - Input a name, deadline, and condition for each of your tasks
 - See the number of tasks you have
